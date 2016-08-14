@@ -31,6 +31,7 @@ VERSION = '1.0.0'
 
 install_requires = [
     'wishbone>=2.2.0',
+    'python-twitter==3.1'
 ]
 
 try:
